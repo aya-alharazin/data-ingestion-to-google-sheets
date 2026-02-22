@@ -55,6 +55,7 @@ This application automates the entire process by:
 - **Google Sheets API**
 - **gspread**
 - **Google Service Account Authentication**
+- render
 
 ---
 
